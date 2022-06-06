@@ -1,6 +1,6 @@
 ---
 # An instance of the Contact widget.
-widget: Contact
+widget: Contactsss
 
 # This file represents a page section.
 headless: true
@@ -29,7 +29,7 @@ content:
   phone: 888 888 88 88
   address:
     street: 450 Serra Mall
-    city: L'Aquila
+    city: Stocazzo
     region: CA
     postcode: '94305'
     country: United States
