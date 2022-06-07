@@ -1,6 +1,6 @@
 ---
 # An instance of the Contact widget.
-widget: Contactsss
+widget: Contact
 
 # This file represents a page section.
 headless: true
@@ -8,7 +8,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 130
 
-title: Contactss
+title: Contact
 subtitle:
 
 content:
@@ -22,7 +22,7 @@ content:
       id:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: true
+      captcha: false
 
   # Contact details (edit or remove options as required)
   email: test@example.org
